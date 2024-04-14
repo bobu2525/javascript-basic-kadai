@@ -8,7 +8,7 @@ console.log(num);
 
 
 const double = (by) => {
-  console.log(by*2);
+  console.log(by*by);
 };
 
 double(num);
